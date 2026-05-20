@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAADMAAAAAAAAAMAMAAAAAAAAAMwMAAAAAAAAAMwAAAAAAAAAAMwAAAAAAAAAwAwAAAAAAAAAzADAAAAAAAAADMzMAAAAzMwAAADMzMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "miImagen"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
